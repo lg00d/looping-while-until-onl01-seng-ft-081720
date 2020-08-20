@@ -7,4 +7,4 @@ while levitation_force < 10
   end
 end
 
-
+def using_until
